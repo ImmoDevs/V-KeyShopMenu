@@ -1,0 +1,37 @@
+### [ V-KeyShopMenu ] ###
+
+# use § To Change Colors Text
+# use \n To Create New Line
+
+# Depencies Plugin Needed
+- EconomyAPI
+- CoinAPI
+- PiggyCrates
+#########################
+
+# Config Menu #
+
+# Prefix Configuration
+Prefix: [KeyShopMenu]
+
+# Titile Configurations
+Title: "§l§bV§f-§eKey§aShop"
+
+# Content Configuratios
+Content: "§l§aChoose the Options Shop You Want To Use\n"
+
+# Button Configurations
+money-btn: "§l§f>> §l§bUse Money §l§f<<\n§b§oTap To View"
+coin-btn: "§l§f>> §l§eUse Coins §l§f<<\n§b§oTap To View"
+exp-btn: "§l§f>> §l§aUse Exp §l§f<<\n§b§oTap To View"
+
+# Other Button
+closed-btn: "§l§cCLOSED\n§fTap To Close"
+
+#    XXXXXXXXb  XXX      XXX   XXX      XXX  XXXXX     XXXXX  XXXXXXXXXXb  
+#   XXXXXXXXXX  XXX      XXX   XXX      XXX  XXXXXX   XXXXXX  XXXXXXXXXXX  
+#  XXXP         XXX      XXX   XXX      XXX  XXX XXX XXX XXX  XXX
+#  XXX          XXXXXXXXXXXX   XXX      XXX  XXX XXX XXX XXX  XXXXXXXD
+#  XXXb         XXX      XXX   XXX      XXX  XXX  XXXXX  XXX  XXX
+#   XXXXXXXXXX  XXX      XXX   YXXXXXXXXXXY  XXX   XXX   XXX  XXXXXXXXXXX
+#    XXXXXXXXP  XXX      XXX    XXXXXXXXXP   XXX         XXX  XXXXXXXXXXP

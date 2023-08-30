@@ -1,0 +1,18 @@
+name: V-KeyShopMenu
+main: Immortal/Chume/Main
+version: 3.0.0
+api: 5.0.0
+author: ImmoDev
+website: https://github.com/ImmoDevs
+description: Plugin V-KeyShopMenu By ImmoDevs
+
+commands:
+    keyshop:
+        description: Open KeyShopMenu
+        aliases: [kshop, ks]
+        permission: keyshop.cmd
+
+permissions: 
+    keyshop.cmd:
+        description: KeyShopMenu Permission
+        default: true
